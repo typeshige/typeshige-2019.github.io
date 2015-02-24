@@ -29,5 +29,5 @@ gram rating north of 800.
 
 The bowl and tank are made in the USA and the seat was made in Canada.
 
-Our water company gives [rebates](http://www.valleywater.org/Programs/residentialHETprogram.aspx) to MaP Premium
+Our water company gives [rebates](http://www.valleywater.org/Programs/residentialHETprogram.aspx)
 for high efficiency toilets (HETs) but only if its in the MaP Premium list. 
