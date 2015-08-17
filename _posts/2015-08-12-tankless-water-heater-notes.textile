@@ -41,3 +41,16 @@ Max length rounds up to 40'
 (FOR GAS PRESSURES OF 0.5 PSI OR LESS AND A PRESSURE DROP OF 0.5-INCH WATER COLUMN)
 
 Need to double check because each fitting is supposed to add 'length' to the total length.
+
+---
+
+Hard water treatment.
+
+Using a water hardness meter, we get 300+ ppm.  It seems smart to consider some kind of water treatment.
+
+Noritz has a Template Assisted Crystallization (TAC) based-system but it gets poor reviews. TAC retains the calcium in the water but converts it so it doesn't stick to pipes.
+
+From some searching, my favorite water treatment site (PureWater Products) had a system and as usual a nice write up.
+
+http://www.purewaterproducts.com/watts-scalenet
+http://purewateroccasional.net/TAC.html
