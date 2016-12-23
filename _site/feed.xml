@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-23T11:10:14-08:00</updated><id>http://localhost:4000//</id><title type="html">Sissabap</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Strut Channel</title><link href="http://localhost:4000/2015/08/19/strut-channel.html" rel="alternate" type="text/html" title="Strut Channel" /><published>2015-08-19T00:00:00-07:00</published><updated>2015-08-19T00:00:00-07:00</updated><id>http://localhost:4000/2015/08/19/strut-channel</id><content type="html" xml:base="http://localhost:4000/2015/08/19/strut-channel.html">&lt;p&gt;Strut Chanels!&lt;/p&gt;</content><summary type="html">Strut Chanels!</summary></entry><entry><title type="html">Tankless Water Heater Notes</title><link href="http://localhost:4000/2015/08/12/tankless-water-heater-notes.html" rel="alternate" type="text/html" title="Tankless Water Heater Notes" /><published>2015-08-12T00:00:00-07:00</published><updated>2015-08-12T00:00:00-07:00</updated><id>http://localhost:4000/2015/08/12/tankless-water-heater-notes</id><content type="html" xml:base="http://localhost:4000/2015/08/12/tankless-water-heater-notes.html">&lt;p&gt;For a 2 bath house in San Jose, California, the Noritz NRCP928 seems like a good bet.  It should provide the gallons per minute based on these assumptions.&lt;/p&gt;
+
+&lt;p&gt;Average incoming water temperature? Searching around, I got something around 50F.  It’s August on a warm day, the lowest I measured was about 60F.. Let’s estimate the coldest will be 40F in the dead of winter.&lt;/p&gt;
+
+&lt;p&gt;The target temperature is 120F.&lt;/p&gt;
+
+&lt;p&gt;Low, average, high is 40F, 50F, 60F, respectively.&lt;/p&gt;
+
+&lt;p&gt;The temperature rise needed to hit the target is: 80F, 70F, 60F.&lt;/p&gt;
+
+&lt;p&gt;According to the chart on the spec sheet, http://support.noritz.com/download.php?file=Literature%20Page/Spec%20Sheet/NRCP982%20SPEC.pdf&amp;amp;field=SpecSheet
+the gallons per minute will vary between 3.8gpm to 5.8gpm.&lt;/p&gt;
+
+&lt;p&gt;Given at a modern shower head flows a maximum of 2.0gpm, this will work fine even when it’s winter.  It will probably handle two showers at once too.&lt;/p&gt;
+
+&lt;p&gt;Natural Gas:&lt;/p&gt;
+
+&lt;p&gt;PGE in their gas rules promises around 7 inches of water column and that’s right in line with what the heater wants.&lt;/p&gt;
+
+&lt;p&gt;Gas pipe size chart&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;     8'5&quot;(B)                         21'7&quot;(A) 80k ---------------|----------------------------------------
+               |
+               |
+               |  17'3&quot;(C)
+               |
+               |
+               200k
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Max length rounds up to 40’
+“A” sees 280k and needs to be 1 inch pipe.
+“B” sees 80K and needs to be 1/2
+“C” sees 200K and needs 1 inch.&lt;/p&gt;
+
+&lt;p&gt;(FOR GAS PRESSURES OF 0.5 PSI OR LESS AND A PRESSURE DROP OF 0.5-INCH WATER COLUMN)&lt;/p&gt;
+
+&lt;p&gt;Need to double check because each fitting is supposed to add ‘length’ to the total length.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Hard water treatment.&lt;/p&gt;
+
+&lt;p&gt;Using a water hardness meter, we get 300+ ppm.  It seems smart to consider some kind of water treatment.&lt;/p&gt;
+
+&lt;p&gt;Noritz has a Template Assisted Crystallization (TAC) based-system but it gets poor reviews. TAC retains the calcium in the water but converts it so it doesn’t stick to pipes.&lt;/p&gt;
+
+&lt;p&gt;From some searching, my favorite water treatment site (PureWater Products) had a system and as usual a nice write up.&lt;/p&gt;
+
+&lt;p&gt;http://www.purewaterproducts.com/watts-scalenet
+http://purewateroccasional.net/TAC.html&lt;/p&gt;</content><summary type="html">For a 2 bath house in San Jose, California, the Noritz NRCP928 seems like a good bet.  It should provide the gallons per minute based on these assumptions.</summary></entry><entry><title type="html">ENT Conduits</title><link href="http://localhost:4000/2015/08/11/ent-conduits.html" rel="alternate" type="text/html" title="ENT Conduits" /><published>2015-08-11T00:00:00-07:00</published><updated>2015-08-11T00:00:00-07:00</updated><id>http://localhost:4000/2015/08/11/ent-conduits</id><content type="html" xml:base="http://localhost:4000/2015/08/11/ent-conduits.html">&lt;p&gt;For routing CAT6 cables through walls, run them through ENT conduits if the wall is open.&lt;/p&gt;</content><summary type="html">For routing CAT6 cables through walls, run them through ENT conduits if the wall is open.</summary></entry><entry><title type="html">Where efficiency meets performance… in toilets</title><link href="http://localhost:4000/house/2015/02/21/high-efficiency-and-high-performance-toilet-shoping.html" rel="alternate" type="text/html" title="Where efficiency meets performance... in toilets" /><published>2015-02-21T02:59:03-08:00</published><updated>2015-02-21T02:59:03-08:00</updated><id>http://localhost:4000/house/2015/02/21/high-efficiency-and-high-performance-toilet-shoping</id><content type="html" xml:base="http://localhost:4000/house/2015/02/21/high-efficiency-and-high-performance-toilet-shoping.html">&lt;p&gt;Our toilet was made in 1971 and it’s super hard to keep clean. It uses a lot
+of water too. I wanted to replace it with something that looks good in an 
+old bathroom, uses water efficiently, just works and qualifies for a rebate.&lt;/p&gt;
+
+&lt;p&gt;My first stop was &lt;a href=&quot;http://www.terrylove.com/crtoilet.htm&quot;&gt;Terry Love’s consumer toilet reports&lt;/a&gt;
+where I noted a two things. One is that TOTO toilets dominate their list of 
+recommended toilets. Good since I eventually want to get a TOTO Washlet which
+fits TOTO toilet bowls. Second, anything with a gram rating of 500 or more as 
+tested by MaP is good. More about this later.&lt;/p&gt;
+
+&lt;p&gt;From other toilet review sources, most TOTO toilets were highly rated too. So 
+I felt comfortable restricted the search to only TOTO.&lt;/p&gt;
+
+&lt;p&gt;Back to MaP. So who knew there is a toilet rating company called MaP (Maximum Performance) and they
+maintain an independent database of over 3,000 toilets? To make things simplier,
+they created a category called &lt;a href=&quot;http://www.map-testing.com/content/info/menu/map-premium.html&quot;&gt;MaP
+Premium&lt;/a&gt; that requires the use of 1 gallon (4
+liters) or less of water and a gram rating of over 600.&lt;/p&gt;
+
+&lt;p&gt;TOTO had just 2 models that fit but the Drake II 1G (C454CUFG bowl, ST453U tank)
+is the only one that fit the decor. It uses only 1 gallon of water and has a 
+gram rating north of 800.&lt;/p&gt;
+
+&lt;p&gt;The bowl and tank are made in the USA and the seat was made in Canada.&lt;/p&gt;
+
+&lt;p&gt;Our water company gives &lt;a href=&quot;http://www.valleywater.org/Programs/residentialHETprogram.aspx&quot;&gt;rebates&lt;/a&gt;
+for high efficiency toilets (HETs) but only if its in the MaP Premium list.&lt;/p&gt;</content><summary type="html">Our toilet was made in 1971 and it’s super hard to keep clean. It uses a lot
+of water too. I wanted to replace it with something that looks good in an 
+old bathroom, uses water efficiently, just works and qualifies for a rebate.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2015/02/10/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2015-02-10T09:59:03-08:00</published><updated>2015-02-10T09:59:03-08:00</updated><id>http://localhost:4000/jekyll/update/2015/02/10/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2015/02/10/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Counting Chickens</title><link href="http://localhost:4000/2010/08/12/counting-chickens.html" rel="alternate" type="text/html" title="Counting Chickens" /><published>2010-08-12T00:00:00-07:00</published><updated>2010-08-12T00:00:00-07:00</updated><id>http://localhost:4000/2010/08/12/counting-chickens</id><content type="html" xml:base="http://localhost:4000/2010/08/12/counting-chickens.html">&lt;p&gt;As I write this, our house hasn’t been located, we’re not quite ready to make any offers and there are countless other unknowns.  That won’t stop me from doing my research and here is an early wish list:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Floors:&lt;/em&gt; after removing all floor coverings, here are some options I’ve been thinking about:
+## polish the concrete
+## add a thin layer of new concrete then polish
+## install cork flooring
+## install linoleum florring&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">As I write this, our house hasn’t been located, we’re not quite ready to make any offers and there are countless other unknowns.  That won’t stop me from doing my research and here is an early wish list:</summary></entry><entry><title type="html">About this Site</title><link href="http://localhost:4000/2010/08/06/what-this-site-is-about.html" rel="alternate" type="text/html" title="About this Site" /><published>2010-08-06T00:00:00-07:00</published><updated>2010-08-06T00:00:00-07:00</updated><id>http://localhost:4000/2010/08/06/what-this-site-is-about</id><content type="html" xml:base="http://localhost:4000/2010/08/06/what-this-site-is-about.html">&lt;p&gt;I haven’t blogged in over 10 years and I wanted to get back into it. I don’t think &lt;em&gt;blog&lt;/em&gt; was even a word then.  My first site was written in vi or notepad as static html files and now, this site will hardly be any different.  Again, I’m using vi but instead of writing in html, I’m using Textile.  To publish, I’m experimenting with a static website generator called “Jekyll”:http://github.com/mojombo/jekyll and it’s being hosted on github.  So far, so good.&lt;/p&gt;</content><summary type="html">I haven’t blogged in over 10 years and I wanted to get back into it. I don’t think blog was even a word then.  My first site was written in vi or notepad as static html files and now, this site will hardly be any different.  Again, I’m using vi but instead of writing in html, I’m using Textile.  To publish, I’m experimenting with a static website generator called “Jekyll”:http://github.com/mojombo/jekyll and it’s being hosted on github.  So far, so good.</summary></entry><entry><title type="html">First Post</title><link href="http://localhost:4000/2010/08/06/first-post.html" rel="alternate" type="text/html" title="First Post" /><published>2010-08-06T00:00:00-07:00</published><updated>2010-08-06T00:00:00-07:00</updated><id>http://localhost:4000/2010/08/06/first-post</id><content type="html" xml:base="http://localhost:4000/2010/08/06/first-post.html">&lt;p&gt;This is going to be great.&lt;/p&gt;</content><summary type="html">This is going to be great.</summary></entry></feed>

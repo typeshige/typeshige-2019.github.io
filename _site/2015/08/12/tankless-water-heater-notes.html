@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>About</title>
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
+  <title>Tankless Water Heater Notes</title>
+  <meta name="description" content="For a 2 bath house in San Jose, California, the Noritz NRCP928 seems like a good bet. It should provide the gallons per minute based on these assumptions.">
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/about/">
+  <link rel="canonical" href="http://localhost:4000/2015/08/12/tankless-water-heater-notes.html">
   <link rel="alternate" type="application/rss+xml" title="Sissabap" href="/feed.xml">
   
   
@@ -58,22 +58,58 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <article class="post">
+        <p>For a 2 bath house in San Jose, California, the Noritz NRCP928 seems like a good bet.  It should provide the gallons per minute based on these assumptions.</p>
 
-  <header class="post-header">
-    <h1 class="post-title">About</h1>
-  </header>
+<p>Average incoming water temperature? Searching around, I got something around 50F.  It’s August on a warm day, the lowest I measured was about 60F.. Let’s estimate the coldest will be 40F in the dead of winter.</p>
 
-  <div class="post-content">
-    <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
+<p>The target temperature is 120F.</p>
 
-<p>You can find the source code for the Jekyll new theme at: <a href="https://github.com/jglovier/jekyll-new">github.com/jglovier/jekyll-new</a></p>
+<p>Low, average, high is 40F, 50F, 60F, respectively.</p>
 
-<p>You can find the source code for Jekyll at <a href="https://github.com/jekyll/jekyll">github.com/jekyll/jekyll</a></p>
+<p>The temperature rise needed to hit the target is: 80F, 70F, 60F.</p>
 
-  </div>
+<p>According to the chart on the spec sheet, http://support.noritz.com/download.php?file=Literature%20Page/Spec%20Sheet/NRCP982%20SPEC.pdf&amp;field=SpecSheet
+the gallons per minute will vary between 3.8gpm to 5.8gpm.</p>
 
-</article>
+<p>Given at a modern shower head flows a maximum of 2.0gpm, this will work fine even when it’s winter.  It will probably handle two showers at once too.</p>
+
+<p>Natural Gas:</p>
+
+<p>PGE in their gas rules promises around 7 inches of water column and that’s right in line with what the heater wants.</p>
+
+<p>Gas pipe size chart</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>     8'5"(B)                         21'7"(A) 80k ---------------|----------------------------------------
+               |
+               |
+               |  17'3"(C)
+               |
+               |
+               200k
+</code></pre>
+</div>
+
+<p>Max length rounds up to 40’
+“A” sees 280k and needs to be 1 inch pipe.
+“B” sees 80K and needs to be 1/2
+“C” sees 200K and needs 1 inch.</p>
+
+<p>(FOR GAS PRESSURES OF 0.5 PSI OR LESS AND A PRESSURE DROP OF 0.5-INCH WATER COLUMN)</p>
+
+<p>Need to double check because each fitting is supposed to add ‘length’ to the total length.</p>
+
+<hr />
+
+<p>Hard water treatment.</p>
+
+<p>Using a water hardness meter, we get 300+ ppm.  It seems smart to consider some kind of water treatment.</p>
+
+<p>Noritz has a Template Assisted Crystallization (TAC) based-system but it gets poor reviews. TAC retains the calcium in the water but converts it so it doesn’t stick to pipes.</p>
+
+<p>From some searching, my favorite water treatment site (PureWater Products) had a system and as usual a nice write up.</p>
+
+<p>http://www.purewaterproducts.com/watts-scalenet
+http://purewateroccasional.net/TAC.html</p>
 
       </div>
     </main>
